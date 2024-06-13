@@ -14,7 +14,7 @@ def help_click():
 def about_click():
     messagebox.showinfo(
         "About",
-        "Created by Brandon Jones\n2024©"
+        "Created by MrJ\n2024©"
     )
 
 
